@@ -20,3 +20,4 @@ console.log(mensajeDeBienvenida);
 
 // Mostrar en pantalla
 document.getElementById("resultado").textContent = mensajeDeBienvenida;
+
